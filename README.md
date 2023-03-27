@@ -1,2 +1,2 @@
-# Formul-rio-de-cadastro
-Uma página de formulário onde o CEP preenche os campos como bairro automaticamente
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
